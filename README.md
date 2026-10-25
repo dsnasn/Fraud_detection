@@ -246,13 +246,14 @@ https://www.kaggle.com/datasets/ealaxi/paysim1?resource=download
 
 ---
 
+
 ## 👩‍💻 Author
 
 **Jiahui (Katie) Ma**
 
-Operations Analyst @ Barclays | MSc Computing Science, University of Glasgow
+MSc Computing Science Graduate | University of Glasgow
 
-Interested in Data Science, Machine Learning, Artificial Intelligence, and technology-driven problem solving.
+With a background in Computing Science and Software Engineering, I'm interested in Data Science, Machine Learning, Artificial Intelligence, and technology-driven problem solving.
 
 - **GitHub:** [dsnasn](https://github.com/dsnasn)
 - **LinkedIn:** [Jiahui Ma](https://linkedin.com/in/jiahui-ma-b57b56337)
